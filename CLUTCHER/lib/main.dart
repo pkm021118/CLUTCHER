@@ -24,7 +24,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-<<<<<<< HEAD
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key, required this.title});
@@ -116,5 +115,3 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 }
-=======
->>>>>>> origin/main
