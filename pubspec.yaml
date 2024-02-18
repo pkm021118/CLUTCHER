@@ -1,0 +1,47 @@
+name: clutcher
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  kakao_flutter_sdk_user: ^1.8.0
+  kakao_flutter_sdk_auth: ^1.8.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/background.svg
+    - assets/kakao.png
+    - assets/Home_icon.png
+    - assets/Home_icon_active.png
+    - assets/Chat_icon.png
+    - assets/Chat_icon_active.png
+    - assets/Style_icon.png
+    - assets/Style_icon_active.png
+    - assets/Saved_icon.png
+    - assets/Saved_icon_active.png
+    - assets/My_icon.png
+    - assets/My_icon_active.png
+    - assets/CLUTCHER.png
+    - assets/notification_icon.png
+    - assets/notification_icon_active.png
+    - assets/loading_background.png
+    - assets/login_background.png
+    - assets/custom.png
+    - assets/carrot.png
+    - assets/photo1.png
+    - assets/photo2.png

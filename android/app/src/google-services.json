@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183795780369",
+    "project_id": "clutcher-27e5b",
+    "storage_bucket": "clutcher-27e5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183795780369:android:1c4af4725bbe8b642f9ab0",
+        "android_client_info": {
+          "package_name": "com.example.clutcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgv0o47CxGrvB2l9JbqwmuV3IR4Ri_TCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
